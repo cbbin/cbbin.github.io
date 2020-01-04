@@ -368,7 +368,7 @@ svg.icon {
       color: #333333; }
   .article img {
     padding: 3px;
-    border: 1px solid #ddd;
+    /* border: 1px solid #ddd; */
     max-width: 100%;
     margin: 8px auto 8px;
     display: block; }
